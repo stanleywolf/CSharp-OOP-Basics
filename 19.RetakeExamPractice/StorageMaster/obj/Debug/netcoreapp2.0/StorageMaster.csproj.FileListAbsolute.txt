@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\19.RetakeExamPractice\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

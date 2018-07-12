@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\bin\Debug\netcoreapp2.0\SystemSplit.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\bin\Debug\netcoreapp2.0\SystemSplit.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\bin\Debug\netcoreapp2.0\SystemSplit.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\bin\Debug\netcoreapp2.0\SystemSplit.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\bin\Debug\netcoreapp2.0\SystemSplit.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\obj\Debug\netcoreapp2.0\SystemSplit.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\obj\Debug\netcoreapp2.0\SystemSplit.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\obj\Debug\netcoreapp2.0\SystemSplit.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\obj\Debug\netcoreapp2.0\SystemSplit.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\obj\Debug\netcoreapp2.0\SystemSplit.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\17.ExamPreperationThree\SystemSplit\obj\Debug\netcoreapp2.0\SystemSplit.pdb
